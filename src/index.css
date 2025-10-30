@@ -1,1 +1,10 @@
 @import "tailwindcss";
+
+@theme {
+  --color-patriot-navy: #0A2540;
+  --color-patriot-red: #C53030;
+  --color-patriot-gold: #F6C343;
+  --color-patriot-gray-light: #E5E7EB;
+  --color-patriot-gray-dark: #6B7280;
+  --color-patriot-background: #F9FAFB;
+}
